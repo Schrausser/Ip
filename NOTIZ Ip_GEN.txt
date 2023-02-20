@@ -1,0 +1,15 @@
+Ip_GEN von Dietmar SCHRAUSSER 2009
+
+Handhabung
+----------
+
+Ip_GEN [1]_[2]_[3]_[4]_[5]
+----------------------------------
+[1] Elemente n im Zufallsvekor n
+[2] (*)|Anfangswert (0)|Zeitwert
+[3] (1)|Gvt (0)|f(x) Ip_GEN_fn.asc
+[4] y Minimalwert
+[5] y Maximalwert
+----------------------------------
+Ip_GEN von Dietmar Schrausser
+<\> Mar  1 2009 @ 22:51:21

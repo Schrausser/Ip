@@ -1,0 +1,16 @@
+Ip_ESP von Dietmar SCHRAUSSER 2009
+
+Handhabung
+----------
+
+Ip_ESP [1]_[2]_[3]_[4]_[5]_[6]
+-----------------------------------------
+[1] Dateiname der Datenmatrixdatei A(n,k)
+[2] Index j zu Datenvektor a
+[3] Pruefgroesse
+[4] (1)|V (2)|mV (3)|Vr (4)|mVr
+[5] Anzahl der Variationen nv
+[6] (*)|Anfangswert (0)|Zeitwert
+-----------------------------------------
+Ip_ESP von Dietmar Schrausser
+<\> Mar  4 2009 @ 12:15:25

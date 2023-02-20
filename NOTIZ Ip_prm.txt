@@ -1,0 +1,11 @@
+Ip_prm von Dietmar SCHRAUSSER 2009
+
+Handhabung
+----------
+
+Ip_prm [1]
+-----------------------------------------
+[1] Dateiname der Datenmatrixdatei A(n,k)
+-----------------------------------------
+Ip_prm von Dietmar Schrausser
+<\> Mar 27 2009 @ 09:58:34

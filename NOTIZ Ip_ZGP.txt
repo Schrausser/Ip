@@ -1,0 +1,17 @@
+Ip_ZGP von Dietmar SCHRAUSSER 2009
+
+Handhabung
+----------
+
+Ip_ZGP [1]_[2]_[3]_[4]_[5]_[6]_[7]
+--------------------------------------------
+[1] Dateiname der Datenmatrixdatei A(n,k)
+[2] Index j zu Datenvektor a1 (AV)
+[3] Index j zu Datenvektor a2 (UV/AV2)
+[4] (1)|UV (2)|V
+[5] (1)|P (2)|Pr (3)|mP (4)|mPr (5)|V (6)|mV
+[6] Anzahl der Permutationen m
+[7] (*)|Anfangswert (0)|Zeitwert
+--------------------------------------------
+Ip_ZGP von Dietmar Schrausser
+<\> Feb 25 2009 @ 04:28:06

@@ -1,0 +1,16 @@
+Ip_VEG von Dietmar SCHRAUSSER 2009
+
+Handhabung
+----------
+
+Ip_VEG [1]_[2]_[3]_[4]_[5]_[6]
+-----------------------------------------
+[1] Dateiname der Datenmatrixdatei A(n,k)
+[2] Index j zu Datenvektor a
+[3] Dateiname der Datenvektordatei S(n')
+[4] Einpassungsumfang 4 <= n'<= n/2
+[5] Format (0)|Roh (1)|Rang
+[6] Reihenfolge (0)|urspr. (1)|invers
+-----------------------------------------
+Ip_VEG von Dietmar Schrausser
+<\> Dec 26 2009 @ 05:58:08

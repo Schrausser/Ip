@@ -1,0 +1,12 @@
+Ip_PSG von Dietmar SCHRAUSSER 2009
+
+Handhabung
+----------
+
+Ip_PSG [1]_[2]
+-------------------------------------------
+[1] Inputdefinitionsdatei
+[2] Index j zu Thetavektor th (0)|Gesamt T
+-------------------------------------------
+Ip_PSG von Dietmar Schrausser
+<\> Feb 24 2009 @ 01:10:28

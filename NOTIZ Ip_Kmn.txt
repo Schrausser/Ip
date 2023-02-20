@@ -1,0 +1,14 @@
+Ip_Kmn von Dietmar SCHRAUSSER 2009
+
+Handhabung
+----------
+
+Ip_Kmn [1]_[2]_[3]_[4]
+-----------------------------------------
+[1] Dateiname der Datenmatrixdatei A(n,k)
+[2] Index j zu Datenvektor a
+[3] Umfang m zu Kombinationsvektor kL
+[4] Datenformat 1|10 2|10.000
+-----------------------------------------
+Ip_Kmn von Dietmar Schrausser
+<\> Mar  1 2009 @ 22:27:30
